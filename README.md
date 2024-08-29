@@ -20,3 +20,9 @@ This is a simple Node.js API that interacts with the GNews API to fetch news art
 ```env
 GNEWS_API_KEY=your_gnews_api_key_here
 ```
+
+### Run the Application
+
+```bash
+node index.js
+```
